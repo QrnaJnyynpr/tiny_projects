@@ -6,7 +6,7 @@ def fib(num):
 	else: 
 		return fib(num-1) + fib(num-2)
 
-print("The first ten digits of the Fibbonaci Sequence:\n")
+print("The first ten digits of the Fibonacci Sequence:\n")
 
 i = 1
 
